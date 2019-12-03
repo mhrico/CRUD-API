@@ -10,7 +10,7 @@ CREATE : https://restful-api-assignment.herokuapp.com/products
 
 JSON:
 {
-	"title": "<String>",	
+	"title": "<String>",
 	"description" :"<string>",
 	"price" : <number>,
 	"company" : "<String>"
